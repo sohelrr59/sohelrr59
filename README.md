@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sohelrr59
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md. Sohel Rana
+- 👀 I’m interested in technology mainly computer programming
+- 🌱 I’m currently learning Laravel advance level
+- 💞️ I’m looking to collaborate on IT Industry/IT Company/Software Firm 
+- 📫 How to reach me - Contact by Email: sohelrr59@gmail.com or Contact by Phone: +880 1729753365
 
 <!---
 sohelrr59/sohelrr59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
